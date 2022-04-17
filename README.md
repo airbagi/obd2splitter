@@ -51,3 +51,9 @@ You can also check if the pictures of those parts are similar to above ones.
 The final device is presented on the picutre below. It provides good, reliable connection to all pins of OBD-II connector. You can attach up to three diagnostic devices to the one OBD-II female. We use it together with [Zend Table](https://clearcrash.ru/zend-table-perform-diagnostics-with-no-car-available/) to start ECU without a vehicle.
 
 ![Final Device](images/finaldevice.jpg)
+
+# Housing
+
+Use STL-format model, stored in **box** folder in order to print a housing. Use srews (2.5x25 mm) to fix it up.
+
+![Housing](images/housing.jpg)
